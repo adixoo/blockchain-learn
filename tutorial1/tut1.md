@@ -14,10 +14,10 @@ A blockchain is like a digital version of this notebook. It's a shared ledger th
 2. Distributed Ledger: [Read more](https://github.com/adixoo/blockchain-learn/blob/main/tutorial1/tut3.md#distributed-ledger) `tut3.md`
 
 3. Consensus Mechanisms: [Read more](https://github.com/adixoo/blockchain-learn/blob/main/tutorial1/tut4.md#consensus-mechanisms) `tut4.md`
-4. Cryptographic Hashing:
+4. Smart Contracts: [Read more](https://github.com/adixoo/blockchain-learn/blob/main/tutorial1/tut5.md#smart-contract)
+5. Cryptographic Hashing:
 6. Immutable Records
 7. Transparency
-8. Smart Contracts: [Read more](https://github.com/adixoo/blockchain-learn/blob/main/tutorial1/tut5.md#smart-contract)
 9. Cryptography for Privacy
 10. Security
 11. Mining
