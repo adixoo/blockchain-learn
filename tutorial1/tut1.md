@@ -11,9 +11,9 @@ A blockchain is like a digital version of this notebook. It's a shared ledger th
 ## Fundamentals of Blockchain
 
 1. Decentralization: [Read more](https://github.com/adixoo/blockchain-learn/blob/main/tutorial1/tut2.md#decentralization)
-2. Distributed Ledger [Read more](https://github.com/adixoo/blockchain-learn/blob/main/tutorial1/tut3.md#distributed-ledger)
+2. Distributed Ledger: [Read more](https://github.com/adixoo/blockchain-learn/blob/main/tutorial1/tut3.md#distributed-ledger)
 3. Cryptographic Hashing:
-4. Consensus Mechanisms:[Read more](https://github.com/adixoo/blockchain-learn/blob/main/tutorial1/tut4.md#consensus-mechanisms)
+4. Consensus Mechanisms: [Read more](https://github.com/adixoo/blockchain-learn/blob/main/tutorial1/tut4.md#consensus-mechanisms)
 5. Immutable Records
 6. Transparency
 7. Smart Contracts: [Read more](https://github.com/adixoo/blockchain-learn/blob/main/tutorial1/tut5.md#smart-contract)
