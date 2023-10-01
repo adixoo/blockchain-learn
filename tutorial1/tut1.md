@@ -6,6 +6,6 @@ Imagine a group of friends who are keeping track of their money together. They w
 
 A blockchain is like a digital version of this notebook. It's a shared ledger that everyone in the network has access to. When someone adds a new transaction to the blockchain, it is verified by all of the computers in the network and then added to the shared ledger. This way, everyone can see all of the transactions and no one can tamper with the data without everyone else's knowledge.
 
-
+**Question**: How can we design blockchain systems that protect user privacy while still maintaining the transparency and security that blockchain technology is known for?
 
 
