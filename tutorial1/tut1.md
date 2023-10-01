@@ -19,4 +19,4 @@ A blockchain is like a digital version of this notebook. It's a shared ledger th
 7. Smart Contracts: [Read more](https://github.com/adixoo/blockchain-learn/blob/main/tutorial1/tut5.md#smart-contract)
 8. Cryptography for Privacy
 9. Security
-10. Use Cases
+10. Mining
