@@ -10,8 +10,8 @@ A blockchain is like a digital version of this notebook. It's a shared ledger th
 
 ## Fundamentals of Blockchain
 
-1. Decentralization: [Read now](https://github.com/adixoo/blockchain-learn/blob/main/tutorial1/tut2.md#decentralization)
-2. Distributed Ledger
+1. Decentralization: [Read more](https://github.com/adixoo/blockchain-learn/blob/main/tutorial1/tut2.md#decentralization)
+2. Distributed Ledger [Google](https://www.google.com)
 3. Cryptographic Hashing:
 4. Consensus Mechanisms:
 5. Immutable Records
