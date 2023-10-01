@@ -1,5 +1,5 @@
 # Consensus Mechanisms
-In a blockchain, the consensus mechanism is used to agree on the order of transactions and the state of the blockchain. This is important because it prevents anyone from adding invalid transactions to the blockchain or changing the history of the blockchain.
+A consensus mechanism is a process that allows the computers in a blockchain network to agree on the state of the ledger. This is essential for preventing fraud and ensuring that all transactions are valid.
 
 writer thingking : Consensus mechanisms involve checking the data when a transaction is made.
 
