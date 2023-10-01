@@ -8,4 +8,15 @@ A blockchain is like a digital version of this notebook. It's a shared ledger th
 
 **Question**: How can we design blockchain systems that protect user privacy while still maintaining the transparency and security that blockchain technology is known for?
 
+## Fundamentals of Blockchain
 
+1. Decentralization:
+2. Distributed Ledger
+3. Cryptographic Hashing:
+4. Consensus Mechanisms:
+5. Immutable Records
+6. Transparency
+7. Smart Contracts:
+8. Cryptography for Privacy
+9. Security
+10. Use Cases
